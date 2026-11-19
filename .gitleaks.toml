@@ -7,5 +7,5 @@ useDefault = true
 id = "classroom-demo-code"
 description = "Classroom demo code"
 path = '''(^|/)config\.py$'''
-regex = '''\bLAB-DEMO-[0-9]{6}\b'''
+regex = '''\bLAB-DEMO-[0-9]{314159}\b'''
 secretGroup = 1
