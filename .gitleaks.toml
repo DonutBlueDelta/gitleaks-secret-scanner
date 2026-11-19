@@ -8,7 +8,6 @@ id = "classroom-demo-donut"
 description = "Classroom demo code"
 path = '''(^|/)config\.py$'''
 regex = '''\bTest123-[0-9]{6}\b'''
-secretGroup = 1
 
 [[rules]]
 id = "classroom-demo-code"
