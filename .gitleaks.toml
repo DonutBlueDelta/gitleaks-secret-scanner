@@ -7,7 +7,7 @@ useDefault = true
 id = "classroom-demo-code"
 description = "Classroom demo code"
 path = '''(^|/)config\.py$'''
-regex = '''\b314159-[0-9]{314159}\b'''
+regex = '''\bTest123-[0-9]{6}\b'''
 secretGroup = 1
 
 [[rules]]
