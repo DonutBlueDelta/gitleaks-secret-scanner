@@ -4,7 +4,7 @@ title = "Gitleaks classroom rules"
 useDefault = true
 
 [[rules]]
-id = "classroom-demo-code"
+id = "classroom-demo-donut"
 description = "Classroom demo code"
 path = '''(^|/)config\.py$'''
 regex = '''\bTest123-[0-9]{6}\b'''
